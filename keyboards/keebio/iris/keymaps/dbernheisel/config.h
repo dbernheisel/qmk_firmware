@@ -24,7 +24,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_SLEEP
 #define RGBLIGHT_ANIMATIONS
 #define RGBLED_NUM 12
+#define RGBLIGHT_SPLIT
 #define RGBLIGHT_HUE_STEP 8
 #define RGBLIGHT_SAT_STEP 8
 #define RGBLIGHT_VAL_STEP 8
-#define LEADER_TIMEOUT 300
+#define LEADER_TIMEOUT 500
