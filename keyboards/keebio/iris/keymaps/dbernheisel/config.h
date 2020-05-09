@@ -18,16 +18,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #pragma once
 
 // #define USE_I2C
-#define EE_HANDS
-
-#undef RGBLED_NUM
-#undef RGBLIGHT_ANIMATIONS
-#define RGBLIGHT_SLEEP
-#define SPLIT_USB_DETECT
-#define RGBLED_NUM 12
-#define RGBLIGHT_SPLIT
-#define RGBLIGHT_HUE_STEP 8
-#define RGBLIGHT_SAT_STEP 8
-#define RGBLIGHT_VAL_STEP 8
-#define LEADER_TIMEOUT 500
 #define GRAVE_ESC_GUI_OVERRIDE
+#define EE_HANDS
